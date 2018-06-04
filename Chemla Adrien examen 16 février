@@ -1,0 +1,9 @@
+3)Le meilleur type de donnée pour une date de naissance est date parce que celui-ci permet de récupérer la valeur via un petit calcul et ce chiffre se mettra à jour automatiquement.
+
+8)Un modèle relationnel est la représentation des relations entre des données. celui-ci permettra d'organiser les données. On peut les organiser sous forme de diagrame tel que l'UML.
+
+12)Une clé primaire est un ou des champs dans une base de données qui permettent d'être le référent de cette table. 
+
+13) Une clé étrangère est un champs qui désigne une clé primaire dans une autre table.
+
+14)CHAR(12) utilise un octet.
